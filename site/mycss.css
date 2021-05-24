@@ -1,0 +1,17 @@
+h1 {
+  background-color: red;
+}
+
+li {
+  background-color: pink;
+  width: 200px;
+  border-radius: 25px;
+  margin-top: 20 px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: aliceblue;
+}
+
+#Wang {
+  color: saddlebrown;
+}
